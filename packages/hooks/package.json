@@ -1,5 +1,5 @@
 {
-  "name": "@keyliyh/lhooks",
+  "name": "@leeyh-labs/lhooks",
   "version": "1.0.4",
   "main": "lib/index.cjs.js",
   "module": "lib/index.esm.js",
@@ -10,7 +10,7 @@
     "lib"
   ],
   "keywords": [
-    "@keyliyh/lhooks",
+    "@leeyh-labs/lhooks",
     "lhooks",
     "utils"
   ],

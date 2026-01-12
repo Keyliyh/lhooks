@@ -1,5 +1,5 @@
 import React from 'react';
-import { useDouble, isNumber } from '@keyliyh/lhooks'; // 从本地库实时获取
+import { useDouble, isNumber } from '@leeyh-labs/lhooks'; // 从本地库实时获取
 
 export default function App() {
   const state = useDouble(90);
