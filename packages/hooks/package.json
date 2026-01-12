@@ -1,5 +1,5 @@
 {
-  "name": "@keyliyh/lhooks",
+  "name": "@leeyh-labs/lhooks",
   "version": "1.0.4",
   "main": "lib/index.cjs.js",
   "module": "lib/index.esm.js",
@@ -10,7 +10,7 @@
     "lib"
   ],
   "keywords": [
-    "@keyliyh/lhooks",
+    "@leeyh-labs/lhooks",
     "lhooks",
     "utils"
   ],
@@ -18,6 +18,7 @@
   "license": "MIT",
   "scripts": {
     "build": "rollup -c",
+    "dev": "rollup -c -w",
     "test": "vitest",
     "lint": "eslint --ext .ts src/",
     "prettier": "prettier -c --write \"src/**/*\""
