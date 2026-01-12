@@ -8,7 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@keyliyh/lhooks": "workspace:*"
+    "@leeyh-labs/lhooks": "workspace:*"
   },
   "devDependencies": {
     "@types/node": "^24.10.1",
