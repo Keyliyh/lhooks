@@ -42,7 +42,7 @@ importers:
 
   packages/demo:
     dependencies:
-      '@keyliyh/lhooks':
+      '@leeyh-labs/lhooks':
         specifier: workspace:*
         version: link:../hooks
     devDependencies:
